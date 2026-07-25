@@ -3,7 +3,7 @@
   
 <br>
 
-![Zachary's GitHub stats](https://github-stats-extended.vercel.app/api?username=zacharyhampton)
+![Zachary's GitHub stats](https://github-stats-extended.vercel.app/api?username=zacharyhampton&count_private=true&show_icons=true&theme=dark)
 
 <img src="https://komarev.com/ghpvc/?username=ZacharyHampton&label=Profile%20views&color=000000&style=flat" alt="ZacharyHampton" />
 
